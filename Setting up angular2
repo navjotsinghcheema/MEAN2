@@ -1,0 +1,11 @@
+
+1. by installing angular-cli and following steps
+	-->npm install -g angular-cli
+	-->ng new project_name
+	-->ng serve
+
+2. by downloading basic file system setup zip from http://bit.ly/1X0El6t 
+	-->extract the zip
+	-->open with visual studio code
+	-->npm install
+	-->npm start
